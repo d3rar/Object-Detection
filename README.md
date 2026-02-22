@@ -1,7 +1,7 @@
 # Object Detection
 
 ## Overview
-This repository contains code and resources for object detection using various algorithms. The project aims to provide a foundational understanding of object detection techniques and their implementations.
+This repository contains code and resources for object detection.
 
 ## Contents
 - `main.ipynb`: Jupyter Notebook containing the main code for object detection.
