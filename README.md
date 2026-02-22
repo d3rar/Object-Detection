@@ -18,24 +18,9 @@ bash git clone https://github.com/d3rar/Object-Detection.git cd Object-Detection
 
 
 2. **Install Dependencies**
-   Make sure you have Jupyter Notebook installed. You can install the required libraries using pip:
+   Make sure you have Jupyter Notebook installed. You can install the required libraries
    
-bash pip install -r requirements.txt
-
 
 3. **Run the Notebook**
-   Open the `main.ipynb` file in Jupyter Notebook and run the cells to execute the object detection algorithms.
+   Open the `main.ipynb` file in Jupyter Notebook and run the cells to execute the project.
 
-## Usage
-- Load your dataset and modify the parameters in the Jupyter Notebook to customize the object detection process.
-- Use the provided videos to visualize the results of the detection algorithms.
-
-## Contributing
-Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
-
-## License
-This project is licensed under the MIT License.
-
-## Acknowledgements
-- [YOLO (You Only Look Once)](https://pjreddie.com/darknet/yolo/)
-- [OpenCV](https://opencv.org/)
